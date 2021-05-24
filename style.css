@@ -1,0 +1,133 @@
+.navbar{
+    background-color:black;
+    font-weight: bolder;
+    
+}
+.nav-link{
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bolder;
+    cursor:pointer;
+    
+}
+.nav-link:hover{
+    color: white;
+    background-color:rgb(103, 36, 167);
+}
+.navbar-brand{
+    font-size: 1.25rem;
+    font-weight: bolder;
+    color: red;
+    cursor: pointer;
+}
+.taab{
+    background-image: url(images/photo-1522199755839-a2bacb67c546.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+}
+.taab h4{
+font-size: 40px;
+color: red;
+margin-left: -55px;
+}
+.taab h2{
+font-size: 50px;
+color: white;
+margin-left: -55px;
+}
+.taab h6{
+    font-size: 17px;
+    color: white;
+    margin-left: -55px;
+}
+
+.taab .btn1{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(243, 51, 86);
+    color: white;
+    outline: none;
+    border: 1px solid rgb(233, 20, 109);
+    font-weight: bold;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.taab .btn1:hover{
+    background-color:transparent;
+    transition: 0.5s;
+
+}
+
+.about{
+    
+    color: white;
+    background-image: url(images/360_F_367137432_ofpF6Pgb6d3z4KwDHOa0GYV0NaXbht6M.jpg);    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+}
+.about img{
+    height: 80%;
+}
+
+.detail{
+    margin-top: 15px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.ct_about {
+    margin: 10px 0;
+}
+.detail span {
+    color: white;
+    font-weight: 600;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 25%;
+}
+
+.btn3{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(243, 51, 86);
+    color: white;
+    outline: none;
+    border: 1px solid rgb(233, 20, 109);
+    font-weight: bold;
+    border-radius: 30px;
+    font-size: 18px;   
+}
+.btn3:hover{
+    background-color:transparent;
+    transition: 0.5s;
+
+}
+.services{
+    background-image: url(images/photo-1591439657848-9f4b9ce436b9.jpg);
+    background-size: cover;
+
+}
+.card:hover{
+    background-image: url(images/istockphoto-1025744816-612x612.jpg);
+    background-size: cover;
+    color:white;
+}
+.circle{
+    background-color: tomato;
+    height: 70px;
+    width: 70px;
+    padding: 12px;
+    display:  inline-block;
+    margin-bottom: 20px;
+    font-size: 30px;
+    border-radius: 50%;
+}
+.footer{
+    background-color: black;
+    color: white;}
